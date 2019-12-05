@@ -10,8 +10,17 @@ th, td {
 img {
    height:450px
 }
-.image-center {
+.image- center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+p {
+  text-align: left;
+  font-family: 'Calistoga', cursive;
+  font-size:30px;
+  color:#595959 inherit;
+}
+.default {
+  text-align:right
 }
